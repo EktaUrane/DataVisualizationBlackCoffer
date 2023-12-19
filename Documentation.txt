@@ -1,0 +1,36 @@
+[DONE]1. Database Creation
+Choose a Database System: Based on your preference or experience, choose a database system like MongoDB, PostgreSQL, or SQL.
+Convert JSON to Database Format: The data in jsondata.json needs to be imported into your chosen database system.
+
+[InProgress]2. Back-End Development
+Select a Framework: Decide between Flask and Django. Flask is simpler and more flexible, while Django offers more built-in features.
+API Development: Create APIs in Python using your selected framework to interact with the database.
+
+3. Front-End Development
+Choose a Framework: Select from JavaScript frameworks like Angular or React, or use Bootstrap for a simpler approach.
+Design the User Interface: Plan how the dashboard will look and how users will interact with it.
+
+4. Data Visualization
+Select a Visualization Tool: Choose from D3.js, Chart.js, FusionCharts, etc. D3.js is highly recommended for its flexibility and capabilities.
+Create Visuals: Develop charts and graphs based on key variables like Intensity, Likelihood, and others.
+
+5. Integration and Testing
+Combine Back-End and Front-End: Ensure the front-end correctly displays data from the back-end.
+Implement Filters: Add filters for various parameters like end year, topics, sector, etc.
+Test the Dashboard: Check for bugs, performance issues, and user experience.
+
+6. Submission Preparation
+Documentation: Write an article explaining your design choices and how to use the dashboard.
+Submission: Prepare your submission according to the guidelines.
+
+
+Visualization of the Data Variables:
+
+1) Intensity, Likelihood, Relevance : These could be visualized using bar charts or line charts, 
+showing how these metrics vary over different dimensions like Year, Country, or Region.
+
+2) Year: Line Chart
+
+3) Country, Region, City:  Maps or bar charts to compare values across different locations.
+
+4) Topics: Pie charts or bar charts could be effective for showing the distribution or count of different topics.
