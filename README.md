@@ -1,7 +1,6 @@
 
-# Black Coffer
+# Data Visualization
 
-This is my submission for BlackCoffer Assignment, I have added the documentation and the Installation process.
 
 ## Installation
 
